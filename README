@@ -1,0 +1,1 @@
+This is a simple js library and server-side script that will allow you to upload larger files in chunks. This is useful if you do not have access to your server 'upload_max_filesize'. There are other use cases, but this is why I had to develop this library. 
